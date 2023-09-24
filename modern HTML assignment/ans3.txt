@@ -1,0 +1,22 @@
+Accessibility in context of Web Development:
+Accessibility in HTML refers to the practice of designing and coding web content in a way that ensures it can be easily accessed, understood, and interacted with by people of diverse abilities, including those with disabilities. This includes using semantic markup, providing alternative text for images and videos, and making sure your web pages are navigable using a keyboard.
+
+There are some assistive devices that play a major role in providing accessibility. 
+1. Screen Reader: A screen reader is software that reads out loud the content of a web page to individuals who are visually impaired. It can also interpret and communicate information about graphics, multimedia, and other elements on the page.
+2. Voice recognition software: Voice recognition software enables users to navigate web pages and input text using voice commands. This technology is particularly useful for individuals with mobility impairments or those who have difficulty using a keyboard or mouse.
+3. Keyboard alternatives: Keyboard alternatives such as sip-and-puff devices, head-tracking devices, and eye-tracking devices allow individuals with physical disabilities to navigate and interact with web pages without the use of a traditional keyboard or mouse.
+
+
+Why to use accessibility:
+There are many reasons why you should use accessibility. Here are some of the important points
+• To identify accessibility issues: - It can help you to identify accessibility issues in your website or web application before users with disabilities encounter them.
+• To meet accessibility standards - it can help you to ensure that our website or web application meets accessibility standards.
+• To improve usability - Accessibility automated testing software tools can help us to improve the usability of your website or web application for everyone, not just users with disabilities, as a result, it can help you to increase user satisfaction and engagement.
+
+
+Benefits for Different User Groups:
+• Visually Impaired Users: Accessible websites use proper HTML markup, provide alternative text for images, and are navigable using screen readers. This enables blind or visually impaired users to access and understand the content.
+• Hearing Impaired Users: Videos with closed captions and transcripts benefit users who are deaf or hard of hearing. Providing textual alternatives for audio content ensures they can access information.
+• Cognitive Impaired Users: Clear and concise content, consistent navigation, and predictable layouts help users with cognitive impairments. Avoiding flashing or distracting content is crucial for users with conditions like epilepsy.
+• Aging Population: As the global population ages, accessibility becomes increasingly important. Older users may experience age-related disabilities that benefit from accessible design.
+• Temporary Disabilities: Accessibility also benefits users with temporary disabilities, such as a broken arm or temporary vision impairment. It ensures uninterrupted access during these periods.
